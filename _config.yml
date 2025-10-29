@@ -1,0 +1,7 @@
+title: YouTube Speed & Seek Controller
+description: Control YouTube playback speed and seeking with keyboard shortcuts. English/Japanese docs.
+theme: jekyll-theme-cayman
+lang: en
+# For project pages, GitHub Pages serves at: https://<user>.github.io/yt-speed-seek-site/
+# baseurl can remain empty; links in pages are relative.
+
