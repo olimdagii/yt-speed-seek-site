@@ -51,7 +51,7 @@ YouTubeの再生速度とシークを、シンプルなショートカットで�
 - 連絡先: olim@urepc.com
 
 ### リポジトリ
-- GitHub: https://github.com/olimdagii/yt-speed-seek
+- GitHub: https://github.com/olimdagii/yt-speed-seek-site
 
 ### 免責
 - できるだけ既定ショートカットでお使いください。

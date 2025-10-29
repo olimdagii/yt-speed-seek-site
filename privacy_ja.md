@@ -7,7 +7,7 @@
 - ライセンス: MIT
 - 価格: フリー
 - サポート: olim@urepc.com
-- リポジトリ: https://github.com/olimdagii/yt-speed-seek
+- リポジトリ: https://github.com/olimdagii/yt-speed-seek-site
 
 免責: 本拡張は現状有姿で提供され、いかなる保証も行いません。作者は機能の維持・更新・不具合や機能修正の義務を負いません。
 

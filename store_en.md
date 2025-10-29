@@ -51,7 +51,7 @@ Control playback speed and seek on YouTube with simple, customizable shortcuts. 
 - Contact: olim@urepc.com
 
 ### Source Code
-- GitHub: https://github.com/olimdagii/yt-speed-seek
+- GitHub: https://github.com/olimdagii/yt-speed-seek-site
 
 ### Disclaimer
 - Prefer using the default shortcuts when possible.
